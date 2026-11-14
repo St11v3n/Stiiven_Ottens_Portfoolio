@@ -1,0 +1,24 @@
+{
+  "name": "stiiven_ottens_portfoolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St11v3n/Stiiven_Ottens_Portfoolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/St11v3n/Stiiven_Ottens_Portfoolio/issues"
+  },
+  "homepage": "https://github.com/St11v3n/Stiiven_Ottens_Portfoolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.9"
+  }
+}
